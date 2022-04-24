@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @s4hl
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Android Applications
 - 📫 How to reach me: [Write an email](mailto:sahilkurmi182002@gmail.com)
 
 <!---
